@@ -1,0 +1,3 @@
+name,age,salary,benefits,department,ERROR_COLUMN,ERROR_VALUE,ERROR_DESCRIPTION
+Akash,22100000,SALES,500,,salary,SALES,Number Format Error
+Vikram,22,600,IT,,department,,department is empty
