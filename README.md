@@ -21,7 +21,10 @@ For your reference, the output and quarantine files are also attached. They are 
 Please find Statements.sql file attached with statements to create and insert into the tables dept and emp. 
 Also find two csv (emp.csv, dept.csv) files for your reference of how the tables emp, dept should look like after executing the statements within the statements.sql 
 
-1. Write a query and compute average salary (sal) of employees distributed by location (loc). Output shouldn't show any locations which don't have any employees.
-2. Write a query and compute average salary (sal) of employees located in NEW YORK excluding PRESIDENT
-3. Write a query and compute average salary (sal) of four most recently hired employees
-4. Write a query and compute minimum salary paid for different kinds of jobs in DALLAS
+a. Write a query and compute average salary (sal) of employees distributed by location (loc). Output shouldn't show any locations which don't have any employees.
+
+b. Write a query and compute average salary (sal) of employees located in NEW YORK excluding PRESIDENT
+
+c. Write a query and compute average salary (sal) of four most recently hired employees
+
+d. Write a query and compute minimum salary paid for different kinds of jobs in DALLAS
